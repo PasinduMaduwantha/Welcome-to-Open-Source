@@ -62,6 +62,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/PasinduMaduwantha">
+                    <img src="https://avatars.githubusercontent.com/u/73535785?v=4" width="100px;" alt="Pasindu Maduwantha"/>
+                    <br />
+                    <sub><b>Pasindu Maduwantha</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
